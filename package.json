@@ -1,0 +1,24 @@
+{
+  "author": "Chris Dew <chris.dew@barricane.com>",
+  "name": "ldjson",
+  "description": "Line Delimited JSON reference implementation",
+  "version": "0.0.3-SNAPSHOT",
+  "homepage": "http://en.wikipedia.org/wiki/Line_Delimited_JSON",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.7.0",
+    "through": "~2.3.4"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "~0.8.0 ~0.10.0"
+  }
+}

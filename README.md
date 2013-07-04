@@ -1,4 +1,4 @@
-nodejs-ldjson
-=============
+Skel
+====
 
-Line Delimited JSON for NodeJS
+A skeleton project
