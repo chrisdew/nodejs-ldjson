@@ -2,7 +2,7 @@
   "author": "Chris Dew <chris.dew@barricane.com>",
   "name": "ldjson",
   "description": "Line Delimited JSON reference implementation",
-  "version": "0.0.3-SNAPSHOT",
+  "version": "0.0.4",
   "homepage": "http://en.wikipedia.org/wiki/Line_Delimited_JSON",
   "repository": {
     "url": ""
