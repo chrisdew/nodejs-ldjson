@@ -22,7 +22,7 @@ Use it on any readable stream:
 
 ## Convenience API
 
-`ldjson` can present an API similar to `net` for TCP client and server functions.
+`ldjson` presents an API similar to `net` for TCP client and server functions.
 
 ### Client
 
@@ -40,7 +40,7 @@ Use it on any readable stream:
 ### Server
 
     var ldjson = require('ldjson');
-
+    
     var server = ldjson.createServer(function (ldjson_socket) {
       console.log('accepted connection');
 
