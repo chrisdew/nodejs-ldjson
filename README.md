@@ -22,7 +22,7 @@ Use it on any readable stream:
 
 ## Convenience API
 
-`ldjson` presents an API similar to `net` for TCP client and server functions.
+`ldjson` can present an API similar to `net` for TCP client and server functions.
 
 ### Client
 
